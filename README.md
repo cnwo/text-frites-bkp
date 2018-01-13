@@ -11,7 +11,8 @@ Playing with NLP techniques for the win.
 To run this project, you need the packages listed in the environment YAML [file](https://github.com/itismouad/text-frites/blob/master/environment.yml). If you have Anaconda installed, you can create an environment for this project by using the following command :
 
 ```
-conda env create -f environment.yml
+conda env create -f nlp.yml
+source activate nlp
 ```
 
 ### 3. Download Word Embeddings
