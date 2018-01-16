@@ -1,6 +1,6 @@
 # text-frites
 
-Playing with NLP techniques for the win.
+Playing with NLP techniques with the ~500,000 Amazon fine food reviews ([link](https://www.kaggle.com/snap/amazon-fine-food-reviews/data)).
 
 # Installation instructions
 
@@ -26,6 +26,12 @@ Download pre-trained word embeddings at the following links :
 * [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/data/glove.6B.zip).
 	+ See this [link](https://nlp.stanford.edu/projects/glove/) for more details.
 	+ Store the files in `./data/glove/` (we will only use `glove.6B.200d.txt` and `glove.6B.300d.txt`.
+
+### 4. Download the dataset
+
+and store it the `data` folder.
+
+* [Kaggle link to data](https://www.kaggle.com/snap/amazon-fine-food-reviews/data)
 
 
 # Cools things to read
