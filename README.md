@@ -4,9 +4,9 @@ Playing with NLP techniques with the ~500,000 Amazon fine food reviews ([link](h
 
 ## Installation instructions
 
-### 1. Clone the repository
+#### 1. Clone the repository
 
-### 2. Install conda environment
+#### 2. Install conda environment
 
 To run this project, you need the packages listed in the environment YAML [file](https://github.com/itismouad/text-frites/blob/master/environment.yml). If you have Anaconda installed, you can create an environment for this project by using the following command :
 
@@ -15,7 +15,7 @@ conda env create -f nlp.yml
 source activate nlp
 ```
 
-### 3. Download Word Embeddings
+#### 3. Download Word Embeddings
 
 Download pre-trained word embeddings at the following links :
 
@@ -27,7 +27,7 @@ Download pre-trained word embeddings at the following links :
 	+ See this [link](https://nlp.stanford.edu/projects/glove/) for more details.
 	+ Store the files in `./data/glove/` (we will only use `glove.6B.200d.txt` and `glove.6B.300d.txt`.
 
-### 4. Download the dataset
+#### 4. Download the dataset
 
 and store it the `data` folder.
 
