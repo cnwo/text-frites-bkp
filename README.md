@@ -2,7 +2,7 @@
 
 Playing with NLP techniques with the ~500,000 Amazon fine food reviews ([link](https://www.kaggle.com/snap/amazon-fine-food-reviews/data)).
 
-# Installation instructions
+## Installation instructions
 
 ### 1. Clone the repository
 
@@ -34,7 +34,7 @@ and store it the `data` folder.
 * [Kaggle link to data](https://www.kaggle.com/snap/amazon-fine-food-reviews/data)
 
 
-# Cools things to read
+## Cools things to read
 
 * Understanding LSTMs, Colah : [link](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * The Unreasonable Effectiveness of Recurrent Neural Networks, A. Karpathy : [link](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
